@@ -10,7 +10,7 @@ environment:
   sdk: ">=2.3.0 <3.0.0"
 dependencies:
   protobuf: ^0.13.15
-  crypto: ^2.0.1
+  crypto: ^3.0.1
   convert: ^2.1.1
   pbkdf2_dart: ^2.1.0
 dev_dependencies:
