@@ -14,7 +14,7 @@ dependencies:
   convert: ^2.1.1
   pbkdf2_dart:
     git:
-      url: git://github.com/br3n9/pbkdf2.git
+      url: https://github.com/mast3rmindx/pbkdf2.git
 dev_dependencies:
   test: ^1.6.5
   pedantic: ^1.8.0
