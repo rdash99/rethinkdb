@@ -11,7 +11,7 @@ environment:
 dependencies:
   protobuf: ^0.13.15
   crypto: ^3.0.1
-  convert: ^2.1.1
+  convert: ^3.0.0
   pbkdf2_dart:
     git:
       url: https://github.com/mast3rmindx/pbkdf2.git
