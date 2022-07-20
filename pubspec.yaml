@@ -16,4 +16,4 @@ dependencies:
   pbkdf2ns: ^0.0.2
 dev_dependencies:
   test: ^1.6.5
-  pedantic: ^1.8.0
+  lints:
