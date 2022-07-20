@@ -1,6 +1,7 @@
 name: rethinkdb_dart
 version: 2.3.2+6
 authors:
+  - Rowan Dash <rowandash@outlook.com>
   - William Welch <billywelch@gmail.com>
   - Marcelo Henrique Neppel <marcelo.neppel@gmail.com>
 description: Dart 2 driver for RethinkDB v2.3.
