@@ -5,7 +5,9 @@ Dart 2 and Flutter RethinkDB Driver
 
 A [Dart 2](http://www.dartlang.org) and [Flutter](https://flutter.io) driver for [RethinkDB v2.3](http://www.rethinkdb.com).
 
-This is a fork of [RethinkDB Dart](https://pub.dartlang.org/packages/rethinkdb_dart), that was created to maintain the [RethinkDB Driver](https://pub.dartlang.org/packages/rethinkdb_driver), that was created to update the original driver to Dart 2 and Flutter.
+This is a fork of [RethinkDB Dart](https://pub.dartlang.org/packages/rethinkdb_dart), which was originally created to maintain the [RethinkDB Driver](https://pub.dartlang.org/packages/rethinkdb_driver), that was created to update the original driver to Dart 2 and Flutter.
+
+This fork was created to maintain [RethinkDB Dart](https://pub.dartlang.org/packages/rethinkdb_dart)
 
 
 Getting Started:
